@@ -7,8 +7,10 @@ Clone the repository and do the following this ->
 
 ## Running the NodeJS server
 
-Open the terminal and run 
+Open the terminal and run to install all the dependencies...
+### `npm install`
 
+Now run this command to run the server
 ### `node app.js`
 
 ## Running the ReactJS Application

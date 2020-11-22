@@ -1,0 +1,2 @@
+exports.QUOTE_INFO_URL = 'https://www1.nseindia.com/live_market/dynaContent/live_watch/get_quote/ajaxGetQuoteJSON.jsp?series=EQ&symbol=';
+exports.GET_QUOTE_URL = 'https://www1.nseindia.com/live_market/dynaContent/live_watch/get_quote/GetQuote.jsp?symbol=';

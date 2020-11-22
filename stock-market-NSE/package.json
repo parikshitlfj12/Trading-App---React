@@ -1,0 +1,13 @@
+{
+  "name": "stock-market-india",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "indian-stock-exchange": "^1.3.33",
+    "loadash": "^1.0.0",
+    "nodemon": "^2.0.6"
+  }
+}
